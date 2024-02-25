@@ -4,11 +4,9 @@ Architecture: iphoneos-arm64e
 Maintainer: khanhphao
 Installed-Size: 1820
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
-Filename: /com.khanhphaovh.bigsurcenter_1.5_iphoneos-arm64.deb
+Filename: ./com.khanhphaovh.bigsurcenter_1.5_iphoneos-arm64.deb
 Size: 749004
 MD5sum: ffd1003a9f35e3d539c97c49b37aa560
-SHA1: f2927ab824f4a0c927f1cfc985dfedf207756207
-SHA256: 0f5f98dbc5af8abe77fe3fc2d99230948d7709ae95f1a9a34cc65ce34afb2a9f
 Section: Tweaks
 Description: BigSurCenter Việt hoá by Khánh Pháo
 Author: nicho1asdev
