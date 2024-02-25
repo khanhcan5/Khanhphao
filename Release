@@ -3,7 +3,7 @@ Label: Khanhphao
 Suite: tweak
 Version: 1.0
 Codename: 1234567
-Architectures: arm64e
+Architectures: arm64
 Components: main
 Decription: repo rootless arm64e
 MD5Sum:
