@@ -1,7 +1,7 @@
-Orgin: Khanhphao
+Orgin: http://khanhcan5.github.io/khanhphao
 Label: Khanhphao
 Suite: tweak
-Version: 1.0
+Version: 5.0
 Codename: 1234567
 Architectures: arm64 arm64e
 Components: main
