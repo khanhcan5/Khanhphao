@@ -1,8 +1,7 @@
 Orgin: https://khanhcan5.github.io/khanhphao
 Label: Khanhphao
-Suite: tweak
+Suite: stable
 Version: 5.0
-Codename: 1234567
 Decription: repo rootless arm64e
 MD5Sum:
 a741c3547963804ef2c7d1c791e45475 665 Packages
