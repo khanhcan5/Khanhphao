@@ -1,0 +1,51 @@
+Package: com.khanhphaovh.bigsurcenter
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: khanhphao
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./com.khanhphaovh.bigsurcenter_1.5_iphoneos-arm64.deb
+Size: 749004
+MD5sum: ffd1003a9f35e3d539c97c49b37aa560
+SHA1: f2927ab824f4a0c927f1cfc985dfedf207756207
+SHA256: 0f5f98dbc5af8abe77fe3fc2d99230948d7709ae95f1a9a34cc65ce34afb2a9f
+Section: Tweaks
+Description: BigSurCenter Việt hoá by Khánh Pháo
+Author: nicho1asdev
+Depiction: khanhphao
+Icon: https://media.havoc.app/62a780880e4e7bb50110e25b
+Name: BigSurCenter
+
+Package: com.khanhphaovh.safarix
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: khanhphao vh
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarixprefs
+Filename: ./com.khanhphaovh.safarix_1.2_iphoneos-arm64.deb
+Size: 260656
+MD5sum: 7fc006e97136994d7d7e2c6e05094846
+SHA1: cef36eb8102a51102977c5201723b47956efaef6
+SHA256: 689c01ce4344381f432be713eb3dec13f3d716672946db685d37fd33ea009039
+Section: Khanhphao repo
+Description: Vh by Khanhphao!support for iOS15+
+Author: khanhphao vh
+Name: Safiri X Vh
+
+Package: com.netskao.pulloverpro
+Version: 2.1.5-2
+Architecture: iphoneos-arm64
+Maintainer: khanhphao vh
+Installed-Size: 2360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./com.netskao.pulloverpro_2.1.5-2_iphoneos-arm64.deb
+Size: 674380
+MD5sum: c4fd0c8600ab9ea6ab06d59c32a2073e
+SHA1: 9458cb26c42749526f28bc98a4bf1f6eca3cd1e1
+SHA256: 468c2c1a048cf3623b365a00238c35ba8ae8729fbb504e66e10272b6d17613e5
+Section: Khanhphaorepo
+Description: Vh by Khanhphao! Fix support for iOS15+
+Author: khanhphao vh
+Name: PullOver Pro Vh
+
